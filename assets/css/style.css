@@ -1,0 +1,44 @@
+body {
+	/*background: url("../images/bossfinding.jpg"); */
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  	font-size: 18px;
+  	color: #777;
+ 	line-height: 34px;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*general*/
+
+.container-fluid {
+  clear: both;
+  margin: 35px;
+  width: 100%;
+
+}
+
+h3{
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+/*characters*/
+.character img {
+	padding: 5px;
+  height:100px; 
+  width:100px;
+	border-color: gray;
+
+}
+
+/*.character h3 {
+
+  must make this hover on top of the picture
+
+}*/
